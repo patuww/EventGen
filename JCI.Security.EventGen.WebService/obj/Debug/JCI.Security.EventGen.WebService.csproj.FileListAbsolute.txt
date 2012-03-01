@@ -1,0 +1,12 @@
+C:\Source\Server\JCI.Security.EventGen.WebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\Server\JCI.Security.EventGen.WebService\bin\JCI.Security.EventGen.WebService.dll.config
+C:\Source\Server\JCI.Security.EventGen.WebService\bin\JCI.Security.EventGen.WebService.dll
+C:\Source\Server\JCI.Security.EventGen.WebService\bin\JCI.Security.EventGen.WebService.pdb
+C:\Source\Server\JCI.Security.EventGen.WebService\obj\Debug\JCI.Security.EventGen.WebService.dll
+C:\Source\Server\JCI.Security.EventGen.WebService\obj\Debug\JCI.Security.EventGen.WebService.pdb
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen.WebService\bin\JCI.Security.EventGen.WebService.dll.config
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen.WebService\bin\JCI.Security.EventGen.WebService.dll
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen.WebService\bin\JCI.Security.EventGen.WebService.pdb
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen.WebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen.WebService\obj\Debug\JCI.Security.EventGen.WebService.dll
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen.WebService\obj\Debug\JCI.Security.EventGen.WebService.pdb

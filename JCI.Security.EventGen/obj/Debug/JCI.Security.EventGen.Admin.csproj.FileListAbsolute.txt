@@ -1,0 +1,14 @@
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen\bin\JCI.Security.EventGen.dll
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen\bin\JCI.Security.EventGen.pdb
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen\bin\EntityFramework.dll
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen\bin\EntityFramework.xml
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen\obj\Debug\JCI.Security.EventGen.dll
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen\obj\Debug\JCI.Security.EventGen.pdb
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen\bin\JCI.Security.EventGen.dll
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen\bin\JCI.Security.EventGen.pdb
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen\bin\EntityFramework.dll
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen\bin\EntityFramework.xml
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen\obj\Debug\JCI.Security.EventGen.dll
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen\obj\Debug\JCI.Security.EventGen.pdb

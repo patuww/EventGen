@@ -1,0 +1,16 @@
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen.Tests\bin\Debug\JCI.Security.EventGen.Tests.dll.config
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen.Tests\bin\Debug\JCI.Security.EventGen.Tests.dll
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen.Tests\bin\Debug\JCI.Security.EventGen.Tests.pdb
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen.Tests\bin\Debug\JCI.Security.EventGen.dll
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen.Tests\bin\Debug\JCI.Security.EventGen.pdb
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen.Tests\obj\Debug\JCI.Security.EventGen.Tests.dll
+C:\Source\Server\JCI.Security.EventGen\JCI.Security.EventGen.Tests\obj\Debug\JCI.Security.EventGen.Tests.pdb
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen.Tests\bin\Debug\JCI.Security.EventGen.Tests.dll.config
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen.Tests\bin\Debug\JCI.Security.EventGen.Tests.dll
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen.Tests\bin\Debug\JCI.Security.EventGen.Tests.pdb
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen.Tests\bin\Debug\JCI.Security.EventGen.dll
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen.Tests\bin\Debug\JCI.Security.EventGen.pdb
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen.Tests\obj\Debug\JCI.Security.EventGen.Tests.dll
+C:\Source\JCI.Security.EventGen\JCI.Security.EventGen.Tests\obj\Debug\JCI.Security.EventGen.Tests.pdb
