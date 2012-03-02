@@ -22,6 +22,7 @@ _UpgradeReport_Files/
 bin/
 obj/
 TestResults/
+_ReSharper*
 
 # Web publish log #
 ###################
