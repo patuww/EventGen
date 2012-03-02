@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.ServiceModel.Description;
-using System.Text;
-using System;
 using System.ServiceModel;
+
 using JCI.Security.EventGen.WebService;
 
 
@@ -13,10 +10,15 @@ namespace JCI.Security.EventGen.WebHost
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
+            //Uri baseAddress = new Uri("http://localhost:8080/hello");
             var myService = new ServiceHost(typeof(MessageService));
+            
+
 
             ServiceDescription serviceDesciption = myService.Description;
+
+            //EventEngine.Instance.CreateMessageThread("patrick");
 
             foreach (ServiceEndpoint endpoint in serviceDesciption.Endpoints)
             {
