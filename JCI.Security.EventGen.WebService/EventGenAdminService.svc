@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="JCI.Security.EventGen.WebService.EventGenAdminService" CodeBehind="EventGenAdminService.svc.cs" %>
