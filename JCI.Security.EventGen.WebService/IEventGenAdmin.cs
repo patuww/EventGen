@@ -7,17 +7,14 @@ using System.Text;
 
 namespace JCI.Security.EventGen.WebService
 {
-    [ServiceContract(CallbackContract = typeof(IMessageCallback))]
+    //[ServiceContract(CallbackContract = typeof(IMessageCallback))]
+    [ServiceContract]
     public interface IEventGenAdmin
     {
+        [OperationContract]
+        List<string> GetSubscribedClients();
 
         [OperationContract]
-        void AddMessage(string message);
-
-        [OperationContract]
-        bool Subscribe();
-
-        [OperationContract]
-        bool Unsubscribe();
+        void GenerateMessages(string clientName, string message, int messagesPerMinute, int totalMessages);
     }
 }

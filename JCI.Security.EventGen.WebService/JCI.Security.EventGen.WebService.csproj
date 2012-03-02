@@ -53,20 +53,21 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Web.config" />
-    <Content Include="Web.Debug.config">
-      <DependentUpon>Web.config</DependentUpon>
-    </Content>
-    <Content Include="Web.Release.config">
-      <DependentUpon>Web.config</DependentUpon>
-    </Content>
+    <Content Include="EventGenAdminService.svc" />
+    <Content Include="MessageService.svc" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Engine\EventEngine.cs" />
+    <Compile Include="EventGenAdminService.svc.cs">
+      <DependentUpon>EventGenAdminService.svc</DependentUpon>
+    </Compile>
     <Compile Include="IEventGenAdmin.cs" />
-    <Compile Include="IEventGenAdminCallback.cs" />
-    <Compile Include="IMessage.cs" />
+    <Compile Include="IEventGenAdminService.cs" />
     <Compile Include="IMessageCallback.cs" />
-    <Compile Include="MessageService.cs" />
+    <Compile Include="IMessage.cs" />
+    <Compile Include="MessageService.svc.cs">
+      <DependentUpon>MessageService.svc</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
